@@ -14,7 +14,7 @@ This project aims to implement and compare deep learning models for optical filt
 
 ## Project Structure 
 The project directory is organized as follows:
-
+```
 optical_spectra_project/
 │
 ├── data/
@@ -46,7 +46,7 @@ optical_spectra_project/
 │       └── plots.py 
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Setup Instructions
 Follow these steps to run the project:
