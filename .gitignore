@@ -1,22 +1,12 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
 # Virtual environments
 .venv/
 venv/
 
-# VS Code
-.vscode/
+# Python cache
+__pycache__/
+*.pyc
 
-# Ignore PNGs everywhere EXCEPT output
-*.png
-!output/
-!output/*.png
-
-# Model weights & large data
+# Large model/data files
 *.pth
 *.pt
 *.npz
@@ -27,4 +17,3 @@ venv/
 # OS
 Thumbs.db
 .DS_Store
-
