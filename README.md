@@ -33,6 +33,7 @@ optical_spectra_project/
 │   └── logs/
 │       ├── cnn_training_history.npz
 │       └── transformer_training_history.npz
+├── output/
 ├── src/
 │   ├── generate_spectra.py   # Synthetic dataset generation
 │   ├── preprocess.py         # Normalization & splits
@@ -44,6 +45,7 @@ optical_spectra_project/
 │   └── utils/
 │       ├── metrics.py
 │       └── plots.py 
+├── Optical Spectra Project Preprint.pdf
 ├── requirements.txt
 └── README.md
 ```
