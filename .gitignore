@@ -11,6 +11,10 @@ venv/
 # VS Code
 .vscode/
 
+# Outputs
+output/
+*.png
+
 # Model weights & large data (recommended)
 *.pth
 *.pt
