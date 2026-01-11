@@ -1,0 +1,5 @@
+Wavelength range: 400–800 nm
+Number of wavelength points: 401
+Classes: ['long-pass', 'short-pass', 'band-pass', 'neutral-density']
+Samples per class: 3000
+Gaussian noise σ range: (0.002, 0.01)

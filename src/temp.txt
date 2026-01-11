@@ -1,0 +1,99 @@
+Epoch 001: Train Loss = 0.3751, Train Acc = 0.8664, Val Loss = 0.1036, Val Acc = 0.9639
+  --> Best model saved.
+Epoch 002: Train Loss = 0.1141, Train Acc = 0.9632, Val Loss = 0.0878, Val Acc = 0.9717
+  --> Best model saved.
+Epoch 003: Train Loss = 0.0998, Train Acc = 0.9692, Val Loss = 0.0819, Val Acc = 0.9711
+  --> Best model saved.
+Epoch 004: Train Loss = 0.0911, Train Acc = 0.9719, Val Loss = 0.0840, Val Acc = 0.9717
+Epoch 005: Train Loss = 0.0855, Train Acc = 0.9731, Val Loss = 0.0696, Val Acc = 0.9761
+  --> Best model saved.
+Epoch 006: Train Loss = 0.0824, Train Acc = 0.9731, Val Loss = 0.0727, Val Acc = 0.9744
+Epoch 007: Train Loss = 0.0808, Train Acc = 0.9749, Val Loss = 0.0879, Val Acc = 0.9783
+Epoch 008: Train Loss = 0.0731, Train Acc = 0.9767, Val Loss = 0.0639, Val Acc = 0.9778
+  --> Best model saved.
+Epoch 009: Train Loss = 0.0748, Train Acc = 0.9765, Val Loss = 0.0627, Val Acc = 0.9794
+  --> Best model saved.
+Epoch 010: Train Loss = 0.0715, Train Acc = 0.9763, Val Loss = 0.0593, Val Acc = 0.9783
+  --> Best model saved.
+Epoch 011: Train Loss = 0.0660, Train Acc = 0.9788, Val Loss = 0.0625, Val Acc = 0.9783
+Epoch 012: Train Loss = 0.0621, Train Acc = 0.9784, Val Loss = 0.0633, Val Acc = 0.9867
+Epoch 013: Train Loss = 0.0614, Train Acc = 0.9786, Val Loss = 0.0520, Val Acc = 0.9806
+  --> Best model saved.
+Epoch 014: Train Loss = 0.0625, Train Acc = 0.9770, Val Loss = 0.0504, Val Acc = 0.9850
+  --> Best model saved.
+Epoch 015: Train Loss = 0.0583, Train Acc = 0.9792, Val Loss = 0.0511, Val Acc = 0.9806
+Epoch 016: Train Loss = 0.0548, Train Acc = 0.9804, Val Loss = 0.0516, Val Acc = 0.9811
+Epoch 017: Train Loss = 0.0527, Train Acc = 0.9807, Val Loss = 0.0442, Val Acc = 0.9861
+  --> Best model saved.
+Epoch 018: Train Loss = 0.0526, Train Acc = 0.9805, Val Loss = 0.0491, Val Acc = 0.9811
+Epoch 019: Train Loss = 0.0474, Train Acc = 0.9826, Val Loss = 0.0456, Val Acc = 0.9850
+Epoch 020: Train Loss = 0.0465, Train Acc = 0.9854, Val Loss = 0.0431, Val Acc = 0.9811
+  --> Best model saved.
+Epoch 021: Train Loss = 0.0437, Train Acc = 0.9842, Val Loss = 0.0432, Val Acc = 0.9872
+Epoch 022: Train Loss = 0.0409, Train Acc = 0.9855, Val Loss = 0.0544, Val Acc = 0.9800
+Epoch 023: Train Loss = 0.0443, Train Acc = 0.9839, Val Loss = 0.0633, Val Acc = 0.9800
+Epoch 024: Train Loss = 0.0424, Train Acc = 0.9858, Val Loss = 0.0351, Val Acc = 0.9878
+  --> Best model saved.
+Epoch 025: Train Loss = 0.0435, Train Acc = 0.9855, Val Loss = 0.0394, Val Acc = 0.9900
+Epoch 026: Train Loss = 0.0324, Train Acc = 0.9890, Val Loss = 0.0302, Val Acc = 0.9922
+  --> Best model saved.
+Epoch 027: Train Loss = 0.0340, Train Acc = 0.9896, Val Loss = 0.0413, Val Acc = 0.9872
+Epoch 028: Train Loss = 0.0351, Train Acc = 0.9894, Val Loss = 0.0270, Val Acc = 0.9917
+  --> Best model saved.
+Epoch 029: Train Loss = 0.0330, Train Acc = 0.9885, Val Loss = 0.0318, Val Acc = 0.9900
+Epoch 030: Train Loss = 0.0309, Train Acc = 0.9901, Val Loss = 0.0253, Val Acc = 0.9939
+  --> Best model saved.
+Epoch 031: Train Loss = 0.0327, Train Acc = 0.9895, Val Loss = 0.0245, Val Acc = 0.9928
+  --> Best model saved.
+Epoch 032: Train Loss = 0.0263, Train Acc = 0.9912, Val Loss = 0.0332, Val Acc = 0.9900
+Epoch 033: Train Loss = 0.0321, Train Acc = 0.9894, Val Loss = 0.0256, Val Acc = 0.9933
+Epoch 034: Train Loss = 0.0256, Train Acc = 0.9912, Val Loss = 0.0474, Val Acc = 0.9811
+Epoch 035: Train Loss = 0.0244, Train Acc = 0.9906, Val Loss = 0.0221, Val Acc = 0.9939
+  --> Best model saved.
+Epoch 036: Train Loss = 0.0234, Train Acc = 0.9920, Val Loss = 0.0239, Val Acc = 0.9939
+Epoch 037: Train Loss = 0.0219, Train Acc = 0.9930, Val Loss = 0.0203, Val Acc = 0.9944
+  --> Best model saved.
+Epoch 038: Train Loss = 0.0226, Train Acc = 0.9926, Val Loss = 0.0258, Val Acc = 0.9933
+Epoch 039: Train Loss = 0.0232, Train Acc = 0.9914, Val Loss = 0.0272, Val Acc = 0.9944
+Epoch 040: Train Loss = 0.0202, Train Acc = 0.9920, Val Loss = 0.0277, Val Acc = 0.9950
+Epoch 041: Train Loss = 0.0218, Train Acc = 0.9921, Val Loss = 0.0184, Val Acc = 0.9939
+  --> Best model saved.
+Epoch 042: Train Loss = 0.0180, Train Acc = 0.9940, Val Loss = 0.0173, Val Acc = 0.9967
+  --> Best model saved.
+Epoch 043: Train Loss = 0.0191, Train Acc = 0.9927, Val Loss = 0.0192, Val Acc = 0.9944
+Epoch 044: Train Loss = 0.0145, Train Acc = 0.9949, Val Loss = 0.0165, Val Acc = 0.9961
+  --> Best model saved.
+Epoch 045: Train Loss = 0.0155, Train Acc = 0.9942, Val Loss = 0.0164, Val Acc = 0.9978
+  --> Best model saved.
+Epoch 046: Train Loss = 0.0135, Train Acc = 0.9957, Val Loss = 0.0129, Val Acc = 0.9983
+  --> Best model saved.
+Epoch 047: Train Loss = 0.0136, Train Acc = 0.9948, Val Loss = 0.0252, Val Acc = 0.9933
+Epoch 048: Train Loss = 0.0144, Train Acc = 0.9946, Val Loss = 0.0104, Val Acc = 0.9983
+  --> Best model saved.
+Epoch 049: Train Loss = 0.0135, Train Acc = 0.9952, Val Loss = 0.0178, Val Acc = 0.9939
+Epoch 050: Train Loss = 0.0192, Train Acc = 0.9932, Val Loss = 0.0151, Val Acc = 0.9944
+Epoch 051: Train Loss = 0.0124, Train Acc = 0.9951, Val Loss = 0.0108, Val Acc = 0.9989
+Epoch 052: Train Loss = 0.0100, Train Acc = 0.9967, Val Loss = 0.0135, Val Acc = 0.9956
+Epoch 053: Train Loss = 0.0124, Train Acc = 0.9960, Val Loss = 0.0106, Val Acc = 0.9983
+Epoch 054: Train Loss = 0.0100, Train Acc = 0.9963, Val Loss = 0.0060, Val Acc = 0.9989
+  --> Best model saved.
+Epoch 055: Train Loss = 0.0133, Train Acc = 0.9951, Val Loss = 0.0301, Val Acc = 0.9911
+Epoch 056: Train Loss = 0.0101, Train Acc = 0.9963, Val Loss = 0.0066, Val Acc = 0.9989
+Epoch 057: Train Loss = 0.0092, Train Acc = 0.9969, Val Loss = 0.0140, Val Acc = 0.9956
+Epoch 058: Train Loss = 0.0099, Train Acc = 0.9969, Val Loss = 0.0111, Val Acc = 0.9972
+Epoch 059: Train Loss = 0.0099, Train Acc = 0.9969, Val Loss = 0.0085, Val Acc = 0.9978
+Epoch 060: Train Loss = 0.0088, Train Acc = 0.9968, Val Loss = 0.0119, Val Acc = 0.9972
+Epoch 061: Train Loss = 0.0069, Train Acc = 0.9974, Val Loss = 0.0102, Val Acc = 0.9978
+Epoch 062: Train Loss = 0.0084, Train Acc = 0.9968, Val Loss = 0.0060, Val Acc = 0.9989
+Epoch 063: Train Loss = 0.0084, Train Acc = 0.9967, Val Loss = 0.0065, Val Acc = 0.9967
+Epoch 064: Train Loss = 0.0080, Train Acc = 0.9973, Val Loss = 0.0055, Val Acc = 0.9994
+  --> Best model saved.
+Epoch 065: Train Loss = 0.0076, Train Acc = 0.9970, Val Loss = 0.0159, Val Acc = 0.9978
+Epoch 066: Train Loss = 0.0069, Train Acc = 0.9981, Val Loss = 0.0113, Val Acc = 0.9978
+Epoch 067: Train Loss = 0.0052, Train Acc = 0.9987, Val Loss = 0.0073, Val Acc = 0.9983
+Epoch 068: Train Loss = 0.0052, Train Acc = 0.9982, Val Loss = 0.0267, Val Acc = 0.9956
+Epoch 069: Train Loss = 0.0087, Train Acc = 0.9965, Val Loss = 0.0285, Val Acc = 0.9933
+Epoch 070: Train Loss = 0.0074, Train Acc = 0.9979, Val Loss = 0.0146, Val Acc = 0.9978
+Epoch 071: Train Loss = 0.0056, Train Acc = 0.9982, Val Loss = 0.0087, Val Acc = 0.9967
+Epoch 072: Train Loss = 0.0106, Train Acc = 0.9957, Val Loss = 0.0211, Val Acc = 0.9939
+Epoch 073: Train Loss = 0.0086, Train Acc = 0.9962, Val Loss = 0.0089, V9979, Val Loss = 0.0183, Val Acc = 0.9972

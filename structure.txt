@@ -1,0 +1,32 @@
+optical_spectra_project/
+│
+├── data/
+│   ├── dataset/                  # Raw generated spectra
+│   │   └── synthetic_spectra_dataset.npz
+│   ├── preview/
+│   │   └── spectra_preview.txt
+│   ├── processed/            # Normalized and split data
+│   │   └── spectra_preprocessed.npz
+│   └── metadata/
+│       ├── class_mapping.json
+│       └── dataset_description.txt
+├── models/           
+│   ├── baseline_cnn_best.pth
+│   ├── transformer_best.pth│
+│   └── logs/
+│       ├── cnn_training_history.npz
+│       └── transformer_training_history.npz
+├── src/
+│   ├── generate_spectra.py   # Synthetic dataset generation
+│   ├── preprocess.py         # Normalization & splits
+│   ├── model.py              # Model definitions
+│   ├── test_evaluation.py          
+│   ├── train_CNN.py          
+│   ├── train_transformer.py          
+│   ├── visualize.py   
+│   └── utils/
+│       ├── metrics.py
+│       └── plots.py 
+├── requirements.txt
+└── README.md
+

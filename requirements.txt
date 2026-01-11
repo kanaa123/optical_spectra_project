@@ -1,0 +1,24 @@
+# Core scientific computing
+numpy
+scipy
+
+# Machine learning utilities
+scikit-learn
+
+# Deep learning (Transformer, CNN)
+torch
+torchvision
+
+# Data handling
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Training utilities
+tqdm
+
+# Jupyter / VS Code notebook support
+jupyter
+ipykernel
