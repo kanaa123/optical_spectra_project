@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Model weights & large data (recommended)
+*.pth
+*.pt
+*.npz
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+
