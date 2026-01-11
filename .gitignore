@@ -11,11 +11,12 @@ venv/
 # VS Code
 .vscode/
 
-# Outputs
-output/
+# Ignore PNGs everywhere EXCEPT output
 *.png
+!output/
+!output/*.png
 
-# Model weights & large data (recommended)
+# Model weights & large data
 *.pth
 *.pt
 *.npz
@@ -26,5 +27,4 @@ output/
 # OS
 Thumbs.db
 .DS_Store
-
 
